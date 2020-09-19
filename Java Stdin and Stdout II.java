@@ -8,7 +8,6 @@ public class Solution {
         int i = scan.nextInt();
         double d = scan.nextDouble();
         String s = scan.nextLine();
-        //String s = scan.nextLine();
         s = scan.nextLine();
 
         // Write your code here.
